@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <EditText android:id="@id/data1Txt" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="" android:hint="Data 1" android:ems="10" android:inputType="textPersonName" />
+    <EditText android:id="@id/data2Txt" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="" android:hint="Data 2" android:ems="10" android:inputType="textPersonName" />
+    <Button android:id="@id/sendButton" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Button" />
+    <TextView android:id="@id/responseText" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</LinearLayout>

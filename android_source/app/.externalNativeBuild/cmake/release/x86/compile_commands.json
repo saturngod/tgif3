@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/htainlinshwe/Downloads/tgif3_demo/app/.externalNativeBuild/cmake/release/x86",
+  "command": "/Users/htainlinshwe/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android21 --gcc-toolchain=/Users/htainlinshwe/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/htainlinshwe/Library/Android/sdk/ndk-bundle/sysroot  -Dnative_lib_EXPORTS -isystem /Users/htainlinshwe/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/htainlinshwe/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/htainlinshwe/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -O2 -DNDEBUG  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o -c /Users/htainlinshwe/Downloads/tgif3_demo/app/src/main/cpp/native-lib.cpp",
+  "file": "/Users/htainlinshwe/Downloads/tgif3_demo/app/src/main/cpp/native-lib.cpp"
+}
+]

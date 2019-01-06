@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/htainlinshwe/Downloads/tgif3_demo/app/.externalNativeBuild/cmake/debug/armeabi-v7a",
+  "command": "/Users/htainlinshwe/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/htainlinshwe/Library/Android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/htainlinshwe/Library/Android/sdk/ndk-bundle/sysroot  -Dnative_lib_EXPORTS -isystem /Users/htainlinshwe/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/htainlinshwe/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/htainlinshwe/Library/Android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o -c /Users/htainlinshwe/Downloads/tgif3_demo/app/src/main/cpp/native-lib.cpp",
+  "file": "/Users/htainlinshwe/Downloads/tgif3_demo/app/src/main/cpp/native-lib.cpp"
+}
+]

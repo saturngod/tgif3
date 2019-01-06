@@ -1,0 +1,40 @@
+{
+  "stringTable": {
+    "0": "/Users/htainlinshwe/Downloads/tgif3_demo/app/.externalNativeBuild/cmake/debug/x86",
+    "1": "--target=i686-none-linux-android21 --gcc-toolchain=/Users/htainlinshwe/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/htainlinshwe/Library/Android/sdk/ndk-bundle/sysroot -Dnative_lib_EXPORTS -isystem /Users/htainlinshwe/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/htainlinshwe/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include -isystem /Users/htainlinshwe/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "/Users/htainlinshwe/Downloads/tgif3_demo/app/../../../Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake",
+    "/Users/htainlinshwe/Downloads/tgif3_demo/app/CMakeLists.txt",
+    "/Users/htainlinshwe/Downloads/tgif3_demo/app/../../../Library/Android/sdk/ndk-bundle/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/htainlinshwe/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake --build /Users/htainlinshwe/Downloads/tgif3_demo/app/.externalNativeBuild/cmake/debug/x86 --target clean"
+  ],
+  "libraries": {
+    "native-lib-Debug-x86": {
+      "buildCommand": "/Users/htainlinshwe/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake --build /Users/htainlinshwe/Downloads/tgif3_demo/app/.externalNativeBuild/cmake/debug/x86 --target native-lib",
+      "buildType": "debug",
+      "toolchain": "624280653",
+      "abi": "x86",
+      "artifactName": "native-lib",
+      "files": [
+        {
+          "src": "/Users/htainlinshwe/Downloads/tgif3_demo/app/src/main/cpp/native-lib.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "/Users/htainlinshwe/Downloads/tgif3_demo/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so"
+    }
+  },
+  "toolchains": {
+    "624280653": {
+      "cppCompilerExecutable": "/Users/htainlinshwe/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

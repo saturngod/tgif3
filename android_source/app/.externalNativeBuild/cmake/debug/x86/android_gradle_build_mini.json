@@ -1,0 +1,18 @@
+{
+  "buildFiles": [
+    "/Users/htainlinshwe/Downloads/tgif3_demo/app/../../../Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake",
+    "/Users/htainlinshwe/Downloads/tgif3_demo/app/CMakeLists.txt",
+    "/Users/htainlinshwe/Downloads/tgif3_demo/app/../../../Library/Android/sdk/ndk-bundle/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/htainlinshwe/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake --build /Users/htainlinshwe/Downloads/tgif3_demo/app/.externalNativeBuild/cmake/debug/x86 --target clean"
+  ],
+  "libraries": {
+    "native-lib-Debug-x86": {
+      "artifactName": "native-lib",
+      "buildCommand": "/Users/htainlinshwe/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake --build /Users/htainlinshwe/Downloads/tgif3_demo/app/.externalNativeBuild/cmake/debug/x86 --target native-lib",
+      "abi": "x86",
+      "output": "/Users/htainlinshwe/Downloads/tgif3_demo/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so"
+    }
+  }
+}

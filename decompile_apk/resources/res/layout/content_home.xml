@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <Button android:id="@+id/button" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Request Response"/>
+    <Button android:id="@+id/button2" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Hashing"/>
+    <Button android:id="@+id/button3" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Use with native key"/>
+</LinearLayout>
